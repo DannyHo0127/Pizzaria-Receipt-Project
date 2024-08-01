@@ -1,9 +1,3 @@
-/*
-Danny Ho
-dkho
-12/5/2022
-CPSC 1060
-*/
 public class Toppings {
     private String name;
     private double costPerInch;
