@@ -1,9 +1,3 @@
-/*
-Danny Ho
-dkho
-12/5/2022
-CPSC 1060
-*/
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.io.PrintWriter;
