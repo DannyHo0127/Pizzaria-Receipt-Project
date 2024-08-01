@@ -1,9 +1,3 @@
-/*
-Danny Ho
-dkho
-12/5/2022
-CPSC 1060
-*/
 public class Customer {
     //Create private fields String name, boolean isRewardsMember,  double rewardsPoiints and set it 20.0
     //Create privat long phoneNumber and String email
