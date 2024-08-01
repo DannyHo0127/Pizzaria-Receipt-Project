@@ -1,9 +1,3 @@
-/*
-Danny Ho
-dkho
-12/5/2022
-CPSC 1060
-*/
 public class Pizza {
     //Create private fields int diameter, string name, double area, int numToppings, double topping cost, and array toppingList
     //Then, create a string pizzaToppings to convert the array toppingList to a string, set pizzaToppings to nothing
