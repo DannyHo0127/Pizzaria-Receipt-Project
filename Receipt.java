@@ -1,12 +1,5 @@
-/*
-Danny Ho
-dkho
-12/5/2022
-CPSC 1060
-*/
 //import a java decimal format statement to round calculations to two decimal places
 //I needed to do this, so I can round all the calculations into two decimal places to add to the receiptInfo, so I can print out the receiptInfo into a text file
-//Here is a link of where I got this info from: https://mkyong.com/java/java-display-double-in-2-decimal-points/
 import java.util.ArrayList;
 import java.text.DecimalFormat;
 public class Receipt {
