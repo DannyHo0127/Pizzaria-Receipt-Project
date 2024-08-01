@@ -1,0 +1,15 @@
+=======RECEIPT========
+Pizza 1: 10 inch diameter
+firstPizza has the toppings Peppers, Onions, Bacon.
+Cost:  $9.42
+======================
+Total: $9.42
+Tax: $0.57
+Tip $1.00
+Rewards Points Used: 10.99Final Total: $0.00
+======================
+Today's Transaction for Danny:
+Rewards Points Added: 2.20
+Rewards Points Remaining: 11.21
+======================
+
